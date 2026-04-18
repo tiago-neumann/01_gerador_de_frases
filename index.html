@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
-    <title>Document</title>
+    <title>Gerador de frases</title>
 </head>
 <body>
+    <!--Aqui ficará tudo relacionado ao topo(navbar)-->
     <header>
         <nav class="navbar">
             <nav class="navbar-conjunto">
@@ -15,25 +16,27 @@
             </nav>
         </nav>
     </header>
+    <!--Aqui ficara a parte principal, onde as palvras aparecem e o botao de gerar-->
     <main>
         <div class="conteiner">
             <div class="gerador">
                 <div class="informacao">
-                    <p class="frase" id="frase">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere beatae aperiam, deserunt voluptas unde repellendus id asperiores eius accusantium ipsam maxime aspernatur nisi laudantium officia quas quod? Unde, quibusdam. Quae.</p>
-                    <p class="autor" id="autor">- Tiago Neumann</p>
+                    <p class="frase" id="frase">Carregando...</p>
+                    <p class="autor" id="autor">Carregando...</p>
                 </div>
                 <div class="btn-informacao">
-                    <button class="btn-gerador">Gerar</button>
+                    <button class="btn-gerador" onclick="carregarFrase()">Gerar</button>
                 </div>
             </div>
         </div>
     </main>
+    <!--Aqui é a parte de contato, só pra deixar mais top o site-->
     <footer>
-        <div class="Contato">
+        <div class="contato">
             <ul>
-                <li><a href="https://github.com/tiago-neumann"><i class="fa-brands fa-github" style="color: rgb(0, 0, 0);"></i></a></li>
-                <li><a href="#"><i class="fa-brands fa-instagram" style="color: rgb(0, 0, 0);"></i></a></li>
-                <li><a href="#"><i class="fa-solid fa-phone" style="color: rgb(0, 0, 0);"></i></a></li>
+                <li><a href="https://github.com/tiago-neumann"><i class="fa-brands fa-github"></i></a></li>
+                <li><a href="https://www.instagram.com/_tiagoneumann/"><i class="fa-brands fa-instagram"></i></a></li>
+                <li><a href="https://wa.me/5547992190072"><i class="fa-solid fa-phone"></i></a></li>
             </ul>
         </div>
     </footer>
