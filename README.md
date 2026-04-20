@@ -1,4 +1,4 @@
-# 01_gerador_de_frases
+# Gerador de Frases
 
 ![Demo](./assets/01_gerador_de_frases.gif) 
 
