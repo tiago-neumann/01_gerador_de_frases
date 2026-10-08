@@ -45,20 +45,6 @@ O projeto foi desenvolvido com o objetivo de praticar:
 
 ---
 
-## 🖥️ Demonstração
-
-<div align="center">
-
-<!-- Adicione aqui uma screenshot ou GIF do projeto -->
-
-<img src="./assets/preview.png" alt="Preview do Gerador de Frases" width="700">
-
-</div>
-
-> 💡 Caso ainda não tenha uma imagem, você pode tirar um print da aplicação e salvá-lo como `assets/preview.png`.
-
----
-
 ## 🛠️ Tecnologias utilizadas
 
 | Tecnologia         | Utilização               |
