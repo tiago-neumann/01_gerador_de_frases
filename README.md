@@ -1,12 +1,12 @@
 # 💬 Gerador de Frases
 
-![Demo](./assets/01_gerador_de_frases.gif) 
-
-[![Preview](https://img.shields.io/badge/Ver-Projeto-blue?style=for-the-badge)](https://tiago-neumann.github.io/01_gerador_de_frases/) 
-
 > Um gerador de frases aleatórias desenvolvido com **HTML, CSS e JavaScript**, utilizando dados externos em formato JSON.
 
 <div align="center">
+
+![Demo](./assets/01_gerador_de_frases.gif) 
+
+[![Preview](https://img.shields.io/badge/Ver-Projeto-blue?style=for-the-badge)](https://tiago-neumann.github.io/01_gerador_de_frases/) 
 
 ![Status](https://img.shields.io/badge/status-concluído-success?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
